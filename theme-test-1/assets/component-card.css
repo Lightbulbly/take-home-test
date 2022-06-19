@@ -85,6 +85,7 @@
 
 .card--standard .card__media {
   margin: var(--card-image-padding);
+  border: 3px dashed rgba(0, 0, 0, 0.349);
 }
 
 .card__inner {
