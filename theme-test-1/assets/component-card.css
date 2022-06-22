@@ -300,8 +300,7 @@
 }
 
 .card-information > .price {
-  /* color: rgb(var(--color-foreground)); */
-  color: red;
+  color: rgb(var(--color-foreground));
 }
 
 .card-information > .rating {
